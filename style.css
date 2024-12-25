@@ -1,0 +1,98 @@
+*{
+    list-style-type: none;
+    text-decoration: none;
+}
+.c1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.c2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    font-size: large;
+}
+.parent{
+    background-image: url(./puppy3.avif);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 900px;
+}
+.c4{
+    background-color: rgba(255,255,255,0.7);
+    width: 80%;
+   margin: 150px;
+   display: flex;
+   align-items: center;
+   
+    
+}
+.c3 img{
+    margin: 50px 30px;
+
+}
+.c6{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.c7{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    font-size: large;
+}
+.parent2{
+    background-image: url(./puppy1.avif);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 900px;
+}
+.c8{
+    background-color: rgba(255,255,255,0.7);
+    width: 80%;
+   margin: 150px;
+   display: flex;
+   align-items: center;
+   flex-direction: row-reverse;
+    
+}
+.c9 img{
+    margin: 50px 30px;
+
+}
+.c11{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.c12{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    font-size: large;
+}
+.parent3{
+    background-image: url(./puppy2.avif);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 900px;
+}
+.c13{
+    background-color: rgba(255,255,255,0.7);
+    width: 80%;
+   margin: 150px;
+   display: flex;
+   align-items: center;
+   
+    
+}
+.c14 img{
+    margin: 50px 30px;
+
+}
+
